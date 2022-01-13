@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75918382676",
+    "project_id": "chatappflutter-95c29",
+    "storage_bucket": "chatappflutter-95c29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75918382676:android:7985f1edf412c3ca45ffc1",
+        "android_client_info": {
+          "package_name": "orbailix.com.chat_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75918382676-hesookamnjk15gm32pueeduuj4dliunp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZ_glcx3nU5Y0QDANBYz3mpX0K5WhK-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75918382676-hesookamnjk15gm32pueeduuj4dliunp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
